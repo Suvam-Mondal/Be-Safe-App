@@ -1,6 +1,6 @@
 # Be-Safe-App
 
-Be Safe App is a SOS App, which can send an emergency sms along with the user's location to multiple contacts on a single click. This App requires an active data connection, enabled GPS and permission to send SMS to function properly.</br>
+Be Safe App is an SOS App, which can send an emergency sms along with the user's location to multiple contacts on a single click. This App requires an active data connection, enabled GPS and permission to send SMS to function properly.</br>
 <b>Note: 1.Cost of sending SMS will be based on your Network Provider.</br> 2. Enable all the required permissions  before using this App.</b>
 
 ## Requirements
