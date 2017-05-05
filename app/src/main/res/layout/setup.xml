@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.shuvo.sosapp.Setup"
+    android:background="#696969">
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/lv"
+        android:background="#696969"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="40dp"
+        />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        android:id="@+id/button"
+        android:background="@drawable/mybutton2"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:background="#696969"
+        android:text="SELECT YOUR EMERGENCY CONTACTS"
+        android:id="@+id/textView4"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
